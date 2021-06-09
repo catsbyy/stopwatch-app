@@ -1,0 +1,1 @@
+![stopwatchGif](C:\Users\vandr\Downloads\stopwatchGif\stopwatchGif.gif)
