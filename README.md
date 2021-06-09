@@ -1,1 +1,1 @@
-![stopwatchGif](C:\Users\vandr\Downloads\stopwatchGif\stopwatchGif.gif)
+![]https://github.com/v-andrusenko/stopwatch-app/blob/master/stopwatchGif.gif?raw=true
