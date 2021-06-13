@@ -29,4 +29,4 @@ Pull requests are welcomed. For major changes, please open an issue first to dis
 
 ## License
 
-[MIT](
+[MIT](https://choosealicense.com/licenses/mit/)
