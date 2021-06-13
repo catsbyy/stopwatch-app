@@ -1,6 +1,6 @@
 # Stopwatch
 
-![GitHub code size in bytes](https://img.shields.io/github/repo-size/v-andrusenko/stopwatch-app) ![GitHub issues](https://img.shields.io/github/downloads/v-andrusenko/UpcomingMovies/total)
+![GitHub code size in bytes](https://img.shields.io/github/repo-size/v-andrusenko/stopwatch-app) ![GitHub issues](https://img.shields.io/github/downloads/v-andrusenko/stopwatch-app/total)
 
 "Stopwatch" application is designed to to display the time count. Also, it is possible to stop the time, resume it and reset the value.
 
