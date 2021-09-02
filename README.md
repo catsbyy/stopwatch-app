@@ -1,10 +1,10 @@
 # Stopwatch
 
-![GitHub code size in bytes](https://img.shields.io/github/repo-size/v-andrusenko/stopwatch-app) ![GitHub issues](https://img.shields.io/github/downloads/v-andrusenko/stopwatch-app/total)
+![GitHub code size in bytes](https://img.shields.io/github/repo-size/catsbyy/stopwatch-app) ![GitHub issues](https://img.shields.io/github/downloads/catsbyy/stopwatch-app/total)
 
 The "Stopwatch" application is designed to display the time count. Also, it is possible to stop the time, resume it and reset the value.
 
-![](https://raw.githubusercontent.com/v-andrusenko/stopwatch-app/master/stopwatchGif.gif) 
+![](https://raw.githubusercontent.com/catsbyy/stopwatch-app/master/stopwatchGif.gif) 
 
 ## Instruments
 
@@ -16,7 +16,7 @@ The "Stopwatch" application is designed to display the time count. Also, it is p
 
 ## Installation
 
-To install the project clone the repository by ``` git clone https://github.com/v-andrusenko/stopwatch-app.git```
+To install the project clone the repository by ``` git clone https://github.com/catsbyy/stopwatch-app.git```
 
 ## Usage
 
